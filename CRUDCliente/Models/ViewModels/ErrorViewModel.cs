@@ -1,6 +1,6 @@
 using System;
 
-namespace CRUDCliente.Models
+namespace CRUDCliente.Models.ViewModels
 {
     public class ErrorViewModel
     {
